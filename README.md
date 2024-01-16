@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Angular**
 
-- ⚡ Fun fact **Cats and IntelliJ - there are only two things that make me immediately happy**
+- ⚡ Fun fact **Cats and IntelliJ - there are only two things that makes me immediately happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
