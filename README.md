@@ -1,6 +1,6 @@
 [![MasterHead](https://media.licdn.com/dms/image/D4D16AQHQeA7P3Lqhmg/profile-displaybackgroundimage-shrink_350_1400/0/1703095795339?e=1710979200&v=beta&t=jT3sZQhfMg3GXKRGv_bQoNsfrRvwzZKJQVM1E6r6V40)](https://www.linkedin.com/in/aleksandra-%C5%82-a01612227/)
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate backend developer from Poland</h3>
+<h3 align="center">A learning backend developer from Poland</h3>
 
 <img align="right" alt="coding cat" width="400" src="https://i.imgur.com/Z6p1UpB.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudylis666&label=Profile%20views&color=0e75b6&style=flat" alt="rudylis666" /> </p>
