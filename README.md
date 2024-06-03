@@ -5,9 +5,9 @@
 <img align="right" alt="coding cat" width="400" src="https://i.imgur.com/Z6p1UpB.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudylis666&label=Profile%20views&color=0e75b6&style=flat" alt="rudylis666" /> </p>
 
-- 🌱 I’m currently learning **Java, Angular**
+- 🌱 I’m currently learning **Java, Python**
 
-- ⚡ Fun fact **Cats and IntelliJ - there are only two things that makes me immediately happy**
+- ⚡ Fun fact **Cats and IntelliJ - there are only two things that make me immediately happy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
